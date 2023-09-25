@@ -21,10 +21,10 @@
   
 <body>
    
-<!-- <audio autoplay loop>
+<audio autoplay loop>
   <source src="audio/tulus.mp3" type="audio/mp3">
 
-</audio> -->
+</audio> 
       
   <section id="hero" class="hero w-100 h-100 p-3 mx-auto text-center d-flex justify-content-center align-items-center text-white" data-aos="fade-up" data-aos-duration="3000" >
 
@@ -136,7 +136,7 @@
         <div class="row justify-content-center">
           <div class="col-md-8 text-center"  data-aos="zoom-in" data-aos-duration="3000" data-aos-delay="700">
             <h2>Acara Pernikahan</h2>
-            <h3>Diselengarakan pada tanggal 12 Oktober 2023 di Amerika</h3>
+            <h3>Diselengarakan pada tanggal 12 Oktober 2023 di Amerika, ritzcalton</h3>
             <p>Oleh sebab itu dengan hormat kami menggundang bapak ibu untuk segera hadir pada acara kami</p>
           </div>
         </div>
@@ -346,7 +346,7 @@
      <div class="row justify-content-center">
       <div class="col-md-8 col-10 text-center">
        <h2>Konfirmasi Kehadiran</h2>
-       <p>Dimohon untuk isi form dibawah ini untuk melakukan kehadiran. </p>
+       <p>Dimohon untuk isi form dibawah ini untuk melakukan kehadiran.  </p>
       </div>
      </div>
     </div>
@@ -384,7 +384,7 @@
       
       
       
-      <!-- <section>
+     <section>
                 <footer class="footer">
                   <div class="container">
                     <div class="row">
@@ -424,7 +424,7 @@
 
       
       
-</section> -->
+</section> 
 
 
   </body>
