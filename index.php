@@ -270,7 +270,7 @@
 
 
 
-    <!-- <section id="story" class="story">
+     <section id="story" class="story">
 
       <div class="container" data-aos="zoom-in" data-aos-duration="3000">
         <div class="row justify-content-center">
@@ -380,7 +380,7 @@
           
         </div>
       </form>    
-      </section> -->
+      </section>
       
       
       
