@@ -69,7 +69,7 @@
 
            <script>
 
-           var countDownDate = new Date("oct 12, 2023 20:00:00"). getTime();
+           var countDownDate = new Date("oct 12, 2025 20:00:00"). getTime();
            var x = setInterval(function(){
 
            var now = new Date().getTime();
@@ -136,7 +136,7 @@
         <div class="row justify-content-center">
           <div class="col-md-8 text-center"  data-aos="zoom-in" data-aos-duration="3000" data-aos-delay="700">
             <h2>Acara Pernikahan</h2>
-            <h3>Diselengarakan pada tanggal 12 Oktober 2023 di Amerika, ritzcalton</h3>
+            <h3>Diselengarakan pada tanggal 12 Oktober 2025 di Amerika, ritzcalton</h3>
             <p>Oleh sebab itu dengan hormat kami menggundang bapak ibu untuk segera hadir pada acara kami</p>
           </div>
         </div>
@@ -214,7 +214,7 @@
         </svg>
 
                 
-        <span>Minggu, 12 Oktober 2023</span>
+        <span>Minggu, 12 Oktober 2025</span>
         </div>
         </div>
              
@@ -249,7 +249,7 @@
                   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar-heart" viewBox="0 0 16 16">
                   <path fill-rule="evenodd" d="M4 .5a.5.5 0 0 0-1 0V1H2a2 2 0 0 0-2 2v11a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V3a2 2 0 0 0-2-2h-1V.5a.5.5 0 0 0-1 0V1H4V.5ZM1 14V4h14v10a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1Zm7-6.507c1.664-1.711 5.825 1.283 0 5.132-5.825-3.85-1.664-6.843 0-5.132Z"/>
                   </svg>
-                  <span>Minggu, 12 Oktober 2023</span>
+                  <span>Minggu, 12 Oktober 2025</span>
           </div>
           </div>
              
@@ -316,7 +316,7 @@
                   <div class="timeline-panel">
                   <div class="timeline-heading">
                   <h3>Jenjang serius</h3>
-                  <span>12 oktober 2023</span>
+                  <span>12 oktober 2025</span>
                   </div>
 
                   <div class="timeline-body">

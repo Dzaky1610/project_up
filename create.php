@@ -10,10 +10,12 @@ $tambahdata=mysqli_query($koneksi,$query);
 if($tambahdata){
     echo"<script>
     alert('data berhasil dikirim ke database')
+    window.location='index.php'
     </script>";
 }else{
     echo"<script>
     alert('data gagal dikirim ke database')
+    window.location='index.php'
     </script>";
 }
 
